@@ -1,0 +1,5 @@
+rice		White
+hamburger	Mc
+steak		meat
+soup		Tom-Yam-Krung
+chocolate	Sweet

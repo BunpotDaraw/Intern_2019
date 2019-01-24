@@ -1,0 +1,5 @@
+rock	Nivana
+pop	Loli
+jazz 	Honda
+hiphop	Yo!
+edm 	H2o
